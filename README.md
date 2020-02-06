@@ -1,4 +1,4 @@
-# Ipreview
+# diamond
 
 ## Feature
 
@@ -9,19 +9,19 @@ a basic UI component base on React
 install from github
 
 ```
-npm install git+https://github.com/sgnilo/Ipreview.git
+npm install git+https://github.com/sgnilo/diamond.git
 ```
 
 install from npm
 
 ```
-npm install ipreview
+npm install diamond
 ```
 
 ## Usage
 
 ```
-import { ImgPreview } from 'ipreview'
+import { ImgPreview } from 'diamond'
 
 const url = ''
 
