@@ -61,6 +61,17 @@ img{
             cursor: pointer;
             margin: 10px 0px;
         }
+        .nav-large-title{
+            height: 40px;
+            width: 100%;
+            box-sizing: border-box;
+            color: #090909;
+            line-height: 40px;
+            margin: 10px 0px;
+            padding: 0 20px;
+            font-size: 16px;
+            font-weight: bold;
+        }
         .nav-item:hover{
             color: #4abef5;
         }
@@ -72,7 +83,7 @@ img{
     }
     .example-wrapper{
         height: 100%;
-        width: calc(100% - 300px);
+        width: calc(100vw - 300px);
         display: inline-block;
         vertical-align: top;
         box-sizing: border-box;

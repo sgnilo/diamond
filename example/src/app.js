@@ -3,10 +3,10 @@ import './style/index.scss'
 import React from 'react'
 import ReactDom from 'react-dom'
 
-import Pages from './pages'
+import Page from './pages'
 
 ReactDom.render(
-    <Pages />,
+    <Page />,
     document.getElementById('ipreview')
 );
 
